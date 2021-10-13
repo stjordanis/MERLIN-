@@ -1,3 +1,3 @@
-./Additional_results/Restoration_results_SPOTLIGHT_OLD.pdf
-./Additional_results/Restoration_results_STRIPMAP_OLD.pdf
-.gitignore
+/Additional_results/Restoration_results_SPOTLIGHT_OLD.pdf
+/Additional_results/Restoration_results_STRIPMAP_OLD.pdf
+/.gitignore

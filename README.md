@@ -10,6 +10,6 @@ We introduce a self-supervised strategy based on the separation of the real and 
 ![summary_MERLIN](./img/MERLIN_framework.png)
 
 
-Two documents with additional results on TerraSAR-X images in stripmap mode and in spotlight mode
+Two documents with additional results on TerraSAR-X images in Stripmap mode and in High Resolution SpotLight (HS) mode
 are provided in the *Additional_results* folder.
 

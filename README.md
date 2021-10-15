@@ -1,3 +1,7 @@
+**The repository will be updated no longer than the 18th of October with a video tutorial with instruction to download sample
+data from the [Airbus webpage](https://www.intelligence-airbusds.com/imagery/sample-imagery/) and
+put it in the proper input format required by the framework.**
+
 # As if by magic: self-supervised training of deep despeckling networks with MERLIN
 ## Emanuele Dalsasso, Loïc Denis, Florence Tupin
 ## Abstract

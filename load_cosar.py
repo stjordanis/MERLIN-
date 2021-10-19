@@ -1,3 +1,6 @@
+import struct
+import numpy as np
+
 def cos2mat(imgName):
     print('Converting CoSAR to numpy array of size [ncolumns,nlines,2]')
 

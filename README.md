@@ -1,6 +1,7 @@
 **A video tutorial with instruction to download sample
 data from the [Airbus webpage](https://www.intelligence-airbusds.com/imagery/sample-imagery/) and
-put it in the proper input format required by the framework is available at https://youtu.be/RCXm07jSUEA**
+put it in the proper input format required by the framework is available at https://youtu.be/RCXm07jSUEA . Results on two
+images are provided in the *Additional_results* folder**
 
 # As if by magic: self-supervised training of deep despeckling networks with MERLIN
 ## Emanuele Dalsasso, Loïc Denis, Florence Tupin

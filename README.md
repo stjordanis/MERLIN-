@@ -18,3 +18,23 @@ We introduce a self-supervised strategy based on the separation of the real and 
 Two documents with additional results on TerraSAR-X images in Stripmap mode and in High Resolution SpotLight (HS) mode
 are provided in the *Additional_results* folder.
 
+## Resources
+
+- [Paper (ArXiv)](https://arxiv.org/abs/2110.13148)
+
+To cite the article:
+
+```
+E. Dalsasso, L. Denis and F. Tupin, (2021),
+"As if by magic: self-supervised training of deep despeckling networks with MERLIN",
+arXiv preprint arXiv:2110.13148.
+
+```
+
+## Licence
+
+The material is made available under the **GNU General Public License v3.0**: Copyright 2020, Emanuele Dalsasso, Loïc Denis, Florence Tupin, of LTCI research lab - Télécom Paris, an Institut Mines Télécom school.
+All rights reserved.
+
+
+
